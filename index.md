@@ -7,3 +7,6 @@
 ```
 const name:string = "Pedro"
 ```
+
+- [x] fazer tarefas
+- [x] dormir
